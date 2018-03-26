@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: #ebf0fa;
+}
+
+.navbar {
+  background-color: black;
+  height: 140px;
+  padding: 20px;
+  color: whitesmoke;
+}
+
+.App-title {
+  font-size: 1.5em;
+  flex-direction: row;
+  text-align: justify;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
